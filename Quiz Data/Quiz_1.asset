@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be782630e9dd6d141a6215b61397f0ea, type: 3}
+  m_Name: Quiz_1
+  m_EditorClassIdentifier: 
+  quizID: 1
+  questionImage: {fileID: -837641612, guid: 689efd8c0cab3494a898b748684ccf1c, type: 3}
+  questionText: Jika menara tersebut didaftarkan dari yang paling rendah ke yang
+    paling tinggi, menara mana yang ada pada urutan keempat dalam daftar?
+  options:
+  - A
+  - B
+  - C
+  - D
+  correctOptionIndex: 1
